@@ -1,5 +1,5 @@
 hookfunction(game.Players.LocalPlayer.IsInGroup, function() return true end)
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "discord.gg/synx", Text = "JOIN FOR SETS", Duration = 4,});
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "ege is", Text = "sexy", Duration = 4,});
 
 pcall(function()
 local espcolor = Color3.fromRGB(140, 69, 102)
